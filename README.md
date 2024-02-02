@@ -6,7 +6,7 @@
 * Data Cleansing
 * Exploratory Data Analysis (EDA)
 * Visualization (Power BI)
-* 
+
 ### Domain: 
 Energy and Sustainability
 
